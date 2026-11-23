@@ -1,0 +1,2 @@
+#coding:l1
+x="ÿabc"
